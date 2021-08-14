@@ -8,4 +8,5 @@ No extra libraries required, uses built in functionaily of existing frameworks
 
 Modify variables in sms-watch.sh to suit, eg to from server etc
 
-
+Tested on:
+DJA0230 - 20.3.c
